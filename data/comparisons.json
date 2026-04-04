@@ -1,0 +1,132 @@
+[
+  {
+    "id": "l-vs-r",
+    "sound1": "l",
+    "sound2": "r",
+    "title": "/l/ vs /r/",
+    "titleJa": "L と R の違い",
+    "difficulty": 5,
+    "description": "日本人にとって最も難しい区別の一つ。/l/は舌が歯茎に触れ、/r/は舌がどこにも触れない。",
+    "keyDifference": "/l/: 舌先が上の歯茎にしっかりつく\n/r/: 舌先はどこにもつかず、後ろに引く",
+    "youtubeId": "GBiMfMCbEe0",
+    "minimalPairs": [
+      { "word1": "light", "word2": "right", "meaning1": "光", "meaning2": "正しい" },
+      { "word1": "lead", "word2": "read", "meaning1": "導く", "meaning2": "読む" },
+      { "word1": "long", "word2": "wrong", "meaning1": "長い", "meaning2": "間違い" },
+      { "word1": "lock", "word2": "rock", "meaning1": "鍵", "meaning2": "岩" },
+      { "word1": "lake", "word2": "rake", "meaning1": "湖", "meaning2": "熊手" },
+      { "word1": "fly", "word2": "fry", "meaning1": "飛ぶ", "meaning2": "揚げる" }
+    ],
+    "practiceSentences": [
+      "I really like the long road along the river.",
+      "The royal library is full of rare literature.",
+      "Larry rolled a large red ball down the lane.",
+      "Please remember to lock the door on the right.",
+      "The early bird already learned a lovely lullaby."
+    ]
+  },
+  {
+    "id": "th-vs-s",
+    "sound1": "th-voiceless",
+    "sound2": "s",
+    "title": "/θ/ vs /s/",
+    "titleJa": "TH と S の違い",
+    "difficulty": 4,
+    "description": "/θ/は舌を歯の間に出す。/s/は舌を歯につけない。日本人は/s/で代用しがち。",
+    "keyDifference": "/θ/: 舌先が上下の歯の間から見える\n/s/: 舌先は歯の裏の近くにあるが触れない",
+    "youtubeId": "dfoRUKaCoYY",
+    "minimalPairs": [
+      { "word1": "think", "word2": "sink", "meaning1": "考える", "meaning2": "沈む" },
+      { "word1": "thick", "word2": "sick", "meaning1": "厚い", "meaning2": "病気の" },
+      { "word1": "theme", "word2": "seem", "meaning1": "テーマ", "meaning2": "〜に見える" },
+      { "word1": "path", "word2": "pass", "meaning1": "小道", "meaning2": "通る" },
+      { "word1": "mouth", "word2": "mouse", "meaning1": "口", "meaning2": "ネズミ" },
+      { "word1": "faith", "word2": "face", "meaning1": "信仰", "meaning2": "顔" }
+    ],
+    "practiceSentences": [
+      "I think the path to success is something special.",
+      "Both Sam and Seth seem to be sick since Thursday.",
+      "The theme of the sixth song seems so smooth.",
+      "Thank you for the seven thick slices of something.",
+      "She thinks the south side is the safest place."
+    ]
+  },
+  {
+    "id": "ae-vs-uh",
+    "sound1": "ae",
+    "sound2": "uh",
+    "title": "/æ/ vs /ʌ/",
+    "titleJa": "短母音 A と U の違い",
+    "difficulty": 3,
+    "description": "どちらも日本語の「ア」に聞こえるが、口の開き方と舌の位置が異なる。",
+    "keyDifference": "/æ/: 口を横に大きく広げて「エ」寄りの「ア」\n/ʌ/: 口をあまり開けずリラックスした「ア」",
+    "youtubeId": "OaN2Y8zN-8I",
+    "minimalPairs": [
+      { "word1": "cat", "word2": "cut", "meaning1": "猫", "meaning2": "切る" },
+      { "word1": "bat", "word2": "but", "meaning1": "バット", "meaning2": "しかし" },
+      { "word1": "cap", "word2": "cup", "meaning1": "帽子", "meaning2": "カップ" },
+      { "word1": "ran", "word2": "run", "meaning1": "走った", "meaning2": "走る" },
+      { "word1": "had", "word2": "hud", "meaning1": "持っていた", "meaning2": "—" },
+      { "word1": "match", "word2": "much", "meaning1": "試合", "meaning2": "たくさん" }
+    ],
+    "practiceSentences": [
+      "The cat cut the cap and cup apart.",
+      "She ran to run a bath but had much trouble.",
+      "A black duck sat under the truck.",
+      "The man must catch the bus at half past one.",
+      "Can you come back with a snack for lunch?"
+    ]
+  },
+  {
+    "id": "f-vs-v",
+    "sound1": "f",
+    "sound2": "v",
+    "title": "/f/ vs /v/",
+    "titleJa": "F と V の違い",
+    "difficulty": 3,
+    "description": "口の形は同じ（上歯+下唇）。/f/は息だけ、/v/は声帯を震わせる。",
+    "keyDifference": "/f/: 上歯を下唇に当てて息だけ出す（無声）\n/v/: 同じ口の形で声を出す（有声）",
+    "youtubeId": "eSYfIWKnGlc",
+    "minimalPairs": [
+      { "word1": "fan", "word2": "van", "meaning1": "扇風機", "meaning2": "バン" },
+      { "word1": "fine", "word2": "vine", "meaning1": "元気な", "meaning2": "つる" },
+      { "word1": "few", "word2": "view", "meaning1": "少しの", "meaning2": "景色" },
+      { "word1": "safe", "word2": "save", "meaning1": "安全な", "meaning2": "救う" },
+      { "word1": "leaf", "word2": "leave", "meaning1": "葉", "meaning2": "去る" },
+      { "word1": "half", "word2": "have", "meaning1": "半分", "meaning2": "持つ" }
+    ],
+    "practiceSentences": [
+      "I have five favorite movies to view on Friday.",
+      "The van is a very fast vehicle and fun to drive.",
+      "Is it safe to leave the stove on overnight?",
+      "Vivian found a few flowers and fresh vines.",
+      "Give half the loaf of food to the visitors."
+    ]
+  },
+  {
+    "id": "b-vs-v",
+    "sound1": "b",
+    "sound2": "v",
+    "title": "/b/ vs /v/",
+    "titleJa": "B と V の違い",
+    "difficulty": 4,
+    "description": "日本語では両方「バ行」になりがち。/b/は両唇、/v/は歯+唇。",
+    "keyDifference": "/b/: 両唇を閉じて破裂させる\n/v/: 上歯を下唇に当てて振動させる（唇は閉じない）",
+    "youtubeId": "eSYfIWKnGlc",
+    "minimalPairs": [
+      { "word1": "best", "word2": "vest", "meaning1": "最高の", "meaning2": "ベスト" },
+      { "word1": "bat", "word2": "vat", "meaning1": "バット", "meaning2": "大桶" },
+      { "word1": "berry", "word2": "very", "meaning1": "ベリー", "meaning2": "とても" },
+      { "word1": "boat", "word2": "vote", "meaning1": "ボート", "meaning2": "投票" },
+      { "word1": "ban", "word2": "van", "meaning1": "禁止", "meaning2": "バン" },
+      { "word1": "base", "word2": "vase", "meaning1": "基地", "meaning2": "花瓶" }
+    ],
+    "practiceSentences": [
+      "The best vest belongs to the brave volunteer.",
+      "Bob's van is very big and beautiful.",
+      "Buy a berry and a vase at the village bazaar.",
+      "Every boy voted for the brave basketball team.",
+      "The baby loved the very bright blue bird."
+    ]
+  }
+]

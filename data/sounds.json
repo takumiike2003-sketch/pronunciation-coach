@@ -1,0 +1,1803 @@
+{
+  "consonants": [
+    {
+      "id": "r-l",
+      "missionNo": 1,
+      "symbol": "R / L",
+      "name": "R / L の使い分け",
+      "checkWord": "Right / Light",
+      "difficulty": 5,
+      "description": "日本人にとって最も難しい区別の一つ。Rは舌をどこにもつけず後ろに引き、Lは舌先を歯茎にしっかりつける。日本語の「ラ行」はRでもLでもない中間の音なので、両方とも新しく覚え直す必要があります。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Rの口の形を作る",
+          "detail": "唇を少し丸めて「ウ」の形にします。舌先は口の中のどこにも触れません。舌全体を奥に引きます。"
+        },
+        {
+          "step": 2,
+          "title": "Rを発音する",
+          "detail": "そのまま舌を後ろに引きながら「ゥラー」と声を出します。犬が唸るような低い音です。舌は絶対に上につけません。"
+        },
+        {
+          "step": 3,
+          "title": "Lの口の形を作る",
+          "detail": "舌先を上の前歯のすぐ裏（歯茎の出っ張り部分）にベッタリ押し当てます。日本語の「ラ」よりしっかりつけます。"
+        },
+        {
+          "step": 4,
+          "title": "Lを発音する",
+          "detail": "舌先をつけたまま声を出します。空気は舌の横から流れます。舌先は発音中ずっと離しません。"
+        },
+        {
+          "step": 5,
+          "title": "交互に練習",
+          "detail": "「Right...Light...Right...Light...」と舌の位置の違いを意識しながらゆっくり繰り返します。"
+        }
+      ],
+      "commonMistakes": [
+        "Rで舌を巻きすぎる → 巻くのではなく、奥に引くだけでOK",
+        "Lで舌が歯茎から離れてしまう → 発音中はずっとつけたまま",
+        "どちらも日本語のカタカナ「ラ」で代用してしまう → Rは「ゥラ」、Lは「ルラ」のように全く違う音",
+        "Rの時に唇を丸めない → 「ウ」の口から始めるのがコツ"
+      ],
+      "japaneseComparison": "日本語の「ラ行」は舌先で歯茎を一瞬弾く音（フラップ）で、英語のRともLとも違います。カタカナの「ライト」と言ってもRightにもLightにも聞こえません。Rは「ゥライト」（舌はどこにもつかない）、Lは舌を上にべったりつけた「ライト」です。",
+      "youtubeJaId": "R7JPEGz4qMU",
+      "youtubeEnId": "UT5KfXcdxK8",
+      "words": [
+        {
+          "word": "Right",
+          "pair": "Light",
+          "meaning1": "正しい",
+          "meaning2": "光"
+        },
+        {
+          "word": "Road",
+          "pair": "Load",
+          "meaning1": "道",
+          "meaning2": "荷物"
+        },
+        {
+          "word": "Correct",
+          "pair": "Collect",
+          "meaning1": "正しい",
+          "meaning2": "集める"
+        },
+        {
+          "word": "Rice",
+          "pair": "Lice",
+          "meaning1": "お米",
+          "meaning2": "シラミ"
+        },
+        {
+          "word": "Raw",
+          "pair": "Law",
+          "meaning1": "生の",
+          "meaning2": "法律"
+        },
+        {
+          "word": "Fly",
+          "pair": "Fry",
+          "meaning1": "飛ぶ",
+          "meaning2": "揚げる"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "Turn right at the next traffic light.",
+          "ja": "次の信号を右に曲がって。"
+        },
+        {
+          "en": "I really like rice for lunch every day.",
+          "ja": "毎日お昼にお米を食べるのが好き。"
+        },
+        {
+          "en": "The royal library is full of rare literature.",
+          "ja": "王立図書館には珍しい文献がいっぱいある。"
+        },
+        {
+          "en": "Larry rolled a large red ball down the lane.",
+          "ja": "ラリーは大きな赤いボールを道に転がした。"
+        },
+        {
+          "en": "Please remember to lock the door on the right.",
+          "ja": "右側のドアの鍵をかけるのを忘れないで。"
+        },
+        {
+          "en": "The early bird already learned a lovely lullaby.",
+          "ja": "早起き鳥はもう素敵な子守唄を覚えた。"
+        }
+      ]
+    },
+    {
+      "id": "th-voiceless",
+      "missionNo": 2,
+      "symbol": "/θ/",
+      "name": "TH (無声音：息のみ)",
+      "checkWord": "Thank you / Think",
+      "difficulty": 4,
+      "description": "舌先を上下の歯で軽く噛んで（挟んで）、その隙間から息だけを漏らす音。日本語に存在しない音ですが、舌の位置さえ覚えれば意外と簡単です。自転車のタイヤから空気が抜ける「スーー」という音をイメージしてください。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "鏡を用意する",
+          "detail": "口元が見える鏡の前で練習しましょう。舌が歯の間から見えているか確認できます。"
+        },
+        {
+          "step": 2,
+          "title": "舌を歯の間に出す",
+          "detail": "舌先を上の歯と下の歯の間から少しだけ出します。上の歯で舌を軽く噛む感じです。"
+        },
+        {
+          "step": 3,
+          "title": "息だけを出す",
+          "detail": "声は出さずに、舌と歯の隙間から「スーー」と息だけを漏らします。喉に手を当てて、震えていなければ正解です。"
+        },
+        {
+          "step": 4,
+          "title": "単語で練習",
+          "detail": "「Think」は舌を出して息を出してから「インク」。「Thank」は舌を出して息を出してから「アンク」。"
+        }
+      ],
+      "commonMistakes": [
+        "「サンキュー」と言ってしまう → 舌を歯の間に出さないとSの音になる",
+        "舌を出しすぎる → ほんの少し（1cm程度）出せばOK",
+        "声を出してしまう → 無声THは息だけ。喉に手を当てて震えていなければ正解",
+        "舌を引っ込めるのが早すぎる → 息を出し終わるまで舌は歯の間"
+      ],
+      "japaneseComparison": "日本語の「サ行」の「ス」は舌が歯の裏にありますが、THは舌が歯の間から外に出ます。カタカナの「シンク」と言うと「sink（沈む）」に聞こえてしまいます。「think（考える）」は舌を噛んで「スィンク」に近い音です。",
+      "youtubeJaId": "pb4LMZMh-SI",
+      "youtubeEnId": "AUCaMwMhNQI",
+      "words": [
+        {
+          "word": "Thank you",
+          "meaning1": "ありがとう"
+        },
+        {
+          "word": "Think",
+          "meaning1": "考える"
+        },
+        {
+          "word": "Thursday",
+          "meaning1": "木曜日"
+        },
+        {
+          "word": "Three",
+          "meaning1": "3"
+        },
+        {
+          "word": "Healthy",
+          "meaning1": "健康な"
+        },
+        {
+          "word": "Mouth",
+          "meaning1": "口"
+        },
+        {
+          "word": "Both",
+          "meaning1": "両方"
+        },
+        {
+          "word": "Birthday",
+          "meaning1": "誕生日"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "I think Thursday is the third of March.",
+          "ja": "木曜日は3月3日だと思う。"
+        },
+        {
+          "en": "Thank you for everything you've done for me.",
+          "ja": "あなたがしてくれた全てに感謝します。"
+        },
+        {
+          "en": "Both teeth need a thorough cleaning today.",
+          "ja": "両方の歯を今日しっかり磨く必要がある。"
+        },
+        {
+          "en": "Nothing is thicker than a thick thumb.",
+          "ja": "太い親指より厚いものはない。"
+        },
+        {
+          "en": "My birthday is on the thirtieth of this month.",
+          "ja": "私の誕生日は今月30日です。"
+        },
+        {
+          "en": "He thought about three things at once.",
+          "ja": "彼は3つのことを同時に考えた。"
+        }
+      ]
+    },
+    {
+      "id": "th-voiced",
+      "missionNo": 3,
+      "symbol": "/ð/",
+      "name": "TH (有声音：振動)",
+      "checkWord": "This / That",
+      "difficulty": 4,
+      "description": "Mission 2の無声THと口の形は全く同じ。違いは喉を震わせること。this, that, the, thereなど日常で超頻出する音なので、マスターすると一気に英語が通じやすくなります。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "無声THの復習",
+          "detail": "まずMission 2の無声THの口の形を確認。舌を歯の間に出して「スーー」と息だけ出す。"
+        },
+        {
+          "step": 2,
+          "title": "喉を震わせる",
+          "detail": "同じ口の形のまま、今度は声を出します。「ズーー」という振動音になります。"
+        },
+        {
+          "step": 3,
+          "title": "振動を確認",
+          "detail": "喉に手を当ててください。ビリビリ震えていれば正解。電気シェーバーの振動音のイメージです。"
+        },
+        {
+          "step": 4,
+          "title": "This / Thatで練習",
+          "detail": "「This」は舌を歯の間に出して「ズィス」。「That」は「ザット」。舌が歯の間に入っていることが大事。"
+        }
+      ],
+      "commonMistakes": [
+        "「ジス・ザット」とカタカナで言う → 舌が歯の間に入っていない",
+        "無声THと有声THを混同する → 喉に手を当てて震えを確認すれば区別できる",
+        "日本語の「ザ行」で代用する → ザ行は舌が歯茎に当たるが、THは歯の間に舌が出る",
+        "the を「ザ」と言う → 舌を歯の間に出した「ダ」に近い音"
+      ],
+      "japaneseComparison": "日本語の「ザ行」は舌先が上の歯茎に触れますが、有声THは舌が歯と歯の間に出ます。全く違う場所で音を出しています。カタカナの「ザ」ではなく、舌を挟んだ「ダ」に近い音です。",
+      "youtubeJaId": "rehb2G7DNzk",
+      "youtubeEnId": "bWDhQgScD4g",
+      "words": [
+        {
+          "word": "This",
+          "meaning1": "これ"
+        },
+        {
+          "word": "That",
+          "meaning1": "あれ"
+        },
+        {
+          "word": "These",
+          "meaning1": "これら"
+        },
+        {
+          "word": "Those",
+          "meaning1": "あれら"
+        },
+        {
+          "word": "Mother",
+          "meaning1": "母"
+        },
+        {
+          "word": "Father",
+          "meaning1": "父"
+        },
+        {
+          "word": "Brother",
+          "meaning1": "兄弟"
+        },
+        {
+          "word": "Breathe",
+          "meaning1": "呼吸する"
+        },
+        {
+          "word": "Smooth",
+          "meaning1": "滑らかな"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "This is better than that one over there.",
+          "ja": "これはあそこにあるあれより良い。"
+        },
+        {
+          "en": "My mother and father are both there today.",
+          "ja": "今日は母も父もそこにいる。"
+        },
+        {
+          "en": "These brothers breathe very smoothly together.",
+          "ja": "この兄弟はとてもスムーズに一緒に呼吸する。"
+        },
+        {
+          "en": "That's the other thing I wanted to mention.",
+          "ja": "それがもう一つ言いたかったこと。"
+        },
+        {
+          "en": "Is this the one you were looking for?",
+          "ja": "これが探していたものですか？"
+        },
+        {
+          "en": "They gathered together with their father.",
+          "ja": "彼らは父親と一緒に集まった。"
+        }
+      ]
+    },
+    {
+      "id": "f-v",
+      "missionNo": 4,
+      "symbol": "F / V",
+      "name": "F / V (下唇を噛む)",
+      "checkWord": "Fan / Van",
+      "difficulty": 3,
+      "description": "上の前歯を下唇の内側に軽く当てて出す音。Fは息だけ（無声）、Vは声も出す（有声）。日本語の「ハ行」や「バ行」とは口の形が全く違います。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "歯を唇に乗せる",
+          "detail": "上の前歯を下唇の内側（赤い部分と皮膚の境目あたり）に軽く乗せます。強く噛まなくてOK。"
+        },
+        {
+          "step": 2,
+          "title": "Fを出す",
+          "detail": "歯と唇の隙間から息を強く吐きます。ロウソクの火を消す勢いで。声は出しません。"
+        },
+        {
+          "step": 3,
+          "title": "Vを出す",
+          "detail": "Fと全く同じ口の形のまま、今度は声を出します。下唇がビリビリ震えれば正解です。"
+        },
+        {
+          "step": 4,
+          "title": "違いを確認",
+          "detail": "「Fan（息だけ）...Van（声あり）...」喉に手を当てて、Vの時だけ震えることを確認しましょう。"
+        }
+      ],
+      "commonMistakes": [
+        "Fを「ハ」で代用する → 「ハ」は唇が開いているが、Fは歯が唇に触れている",
+        "Vを「バ」で代用する → 「バ」は両唇が閉じるが、Vは歯が唇に触れている",
+        "歯を強く噛みすぎる → 軽く触れるだけでOK。痛くならない程度",
+        "Five を「ファイブ」と言う → 日本語の「フ」は両唇。英語のFは歯+唇"
+      ],
+      "japaneseComparison": "日本語の「ファ」は両唇を近づけて息を出しますが、英語のFは必ず上の歯を下唇に当てます。カタカナの「ファイブ」ではなく、歯を唇に当てた「ファイヴ」。Vも「バ」ではなく歯+唇の「ヴ」です。",
+      "youtubeJaId": "QzHwL9X0IHY",
+      "youtubeEnId": "rn3gPJpAITE",
+      "words": [
+        {
+          "word": "Fan",
+          "pair": "Van",
+          "meaning1": "扇風機",
+          "meaning2": "バン"
+        },
+        {
+          "word": "Safe",
+          "pair": "Save",
+          "meaning1": "安全な",
+          "meaning2": "救う"
+        },
+        {
+          "word": "Leaf",
+          "pair": "Leave",
+          "meaning1": "葉",
+          "meaning2": "去る"
+        },
+        {
+          "word": "Coffee",
+          "meaning1": "コーヒー"
+        },
+        {
+          "word": "Five",
+          "meaning1": "5"
+        },
+        {
+          "word": "Very",
+          "meaning1": "とても"
+        },
+        {
+          "word": "Life",
+          "pair": "Live",
+          "meaning1": "人生",
+          "meaning2": "住む"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "I have a reservation for five people.",
+          "ja": "5人で予約しています。"
+        },
+        {
+          "en": "I love very hot coffee in the morning.",
+          "ja": "朝のとても熱いコーヒーが好き。"
+        },
+        {
+          "en": "Is it safe to leave the stove on overnight?",
+          "ja": "コンロをつけっぱなしで一晩置いても安全？"
+        },
+        {
+          "en": "Vivian found a few flowers and fresh vines.",
+          "ja": "ヴィヴィアンは花と新鮮なつるを見つけた。"
+        },
+        {
+          "en": "My favorite food is fresh fruit and fish.",
+          "ja": "好きな食べ物は新鮮な果物と魚。"
+        },
+        {
+          "en": "Give half the loaf of food to the visitors.",
+          "ja": "パンの半分を訪問者にあげて。"
+        }
+      ]
+    },
+    {
+      "id": "b-v",
+      "missionNo": 5,
+      "symbol": "B / V",
+      "name": "B / V (破裂 vs 摩擦)",
+      "checkWord": "Best / Vest",
+      "difficulty": 4,
+      "description": "日本語では両方「バ行」になりがちですが、全く違う音です。Bは両唇を閉じて破裂させる音、Vは上の歯を下唇に当てて摩擦させる音。Vで唇を閉じてはいけません。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Bの確認",
+          "detail": "両唇をしっかり閉じます。空気を溜めてから「バッ」と一気に開放。日本語の「バ」とほぼ同じです。"
+        },
+        {
+          "step": 2,
+          "title": "Vの確認",
+          "detail": "Mission 4で習ったVの形。上の歯を下唇に乗せて「ヴー」と声を出す。唇は絶対に閉じない！"
+        },
+        {
+          "step": 3,
+          "title": "最大の違いを確認",
+          "detail": "Bは両唇が閉じる（破裂音）。Vは唇を閉じず歯が唇に触れる（摩擦音）。鏡で確認しましょう。"
+        },
+        {
+          "step": 4,
+          "title": "ペアで練習",
+          "detail": "「Best（バッと破裂）...Vest（ヴーと摩擦）...」口の形が全く違うことを意識します。"
+        }
+      ],
+      "commonMistakes": [
+        "VeryをBerryと発音する → 「とても」と「ベリー」で全く違う意味になる",
+        "Vで両唇を閉じてしまう → Vは歯+唇。唇同士はつかない",
+        "BもVも同じカタカナ「バ」で言ってしまう → 鏡で口元を確認しましょう",
+        "Vの時に歯が唇に触れていない → 必ず上の歯が下唇に乗っていること"
+      ],
+      "japaneseComparison": "日本語には「ヴ」の音がないため、Vをバ行で代用しがちです。「Very」は「ベリー」ではなく、歯を唇に当てた「ヴェリー」。BとVは口の形を見れば一目で違いが分かります。",
+      "youtubeJaId": "WueEZ4jgxSg",
+      "youtubeEnId": "WwoWEKorSk0",
+      "words": [
+        {
+          "word": "Best",
+          "pair": "Vest",
+          "meaning1": "最高の",
+          "meaning2": "ベスト"
+        },
+        {
+          "word": "Boat",
+          "pair": "Vote",
+          "meaning1": "ボート",
+          "meaning2": "投票"
+        },
+        {
+          "word": "Base",
+          "pair": "Vase",
+          "meaning1": "基地",
+          "meaning2": "花瓶"
+        },
+        {
+          "word": "Berry",
+          "pair": "Very",
+          "meaning1": "ベリー",
+          "meaning2": "とても"
+        },
+        {
+          "word": "Ban",
+          "pair": "Van",
+          "meaning1": "禁止",
+          "meaning2": "バン"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "This is the best vest I've ever bought.",
+          "ja": "これは今まで買った中で最高のベスト。"
+        },
+        {
+          "en": "I voted for the boat trip instead of driving.",
+          "ja": "ドライブの代わりにボート旅行に投票した。"
+        },
+        {
+          "en": "The best vest belongs to the brave volunteer.",
+          "ja": "最高のベストは勇敢なボランティアのもの。"
+        },
+        {
+          "en": "Every boy voted for the brave basketball team.",
+          "ja": "全ての少年が勇敢なバスケチームに投票した。"
+        },
+        {
+          "en": "Bob's van is very big and beautiful.",
+          "ja": "ボブのバンはとても大きくて綺麗。"
+        },
+        {
+          "en": "Buy a berry and a vase at the village bazaar.",
+          "ja": "村のバザーでベリーと花瓶を買って。"
+        }
+      ]
+    },
+    {
+      "id": "s-sh",
+      "missionNo": 6,
+      "symbol": "S / SH",
+      "name": "S / SH (鋭い vs 広い)",
+      "checkWord": "Sea / She",
+      "difficulty": 3,
+      "description": "Sは口を横に引いて鋭い息を出す音、SHは口を突き出して広い息を出す音。日本語の「シ」はSHに近いため、Sの「スィー」を意識的に練習する必要があります。Seaを「シー」と言うとSheに聞こえます。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Sの口を作る",
+          "detail": "口を横に引いて笑顔の形にします。舌先を上の歯茎に近づけて（触れない）、「スッ」と鋭い息を出します。"
+        },
+        {
+          "step": 2,
+          "title": "SHの口を作る",
+          "detail": "口を「ウ」のように前に突き出します。舌は少し後ろに引いて、息を多めに「シュー」と出します。図書館で「静かに！」のポーズです。"
+        },
+        {
+          "step": 3,
+          "title": "違いを感じる",
+          "detail": "Sは口が横に引かれて鋭い音。SHは口が突き出て広い音。口の形が完全に違います。"
+        },
+        {
+          "step": 4,
+          "title": "Sea vs Sheで練習",
+          "detail": "「Sea（スィー、口横引き）...She（シー、口突き出し）...」Seaは絶対に「シー」にならないように！"
+        }
+      ],
+      "commonMistakes": [
+        "SeaをSheと同じ「シー」で言ってしまう → Seaは「スィー」。口を横に引く",
+        "SeatをSheetと同じ発音にする → 意味が「座席」と「シーツ」で全く変わる",
+        "日本語の「シ」の癖が出る → 日本語の「シ」はSHに近い音。Sは「スィ」",
+        "口の形を変えずに両方言う → SとSHは口の形で区別する"
+      ],
+      "japaneseComparison": "日本語の「シ」はSHに近い音です。つまり「Sea」を日本語式に「シー」と言うと「She」に聞こえます。Sは「スィー」と口を横に引いて鋭く発音します。「サ・ス・セ・ソ」は英語のSに近いですが、「シ」だけがSHに近いので要注意。",
+      "youtubeJaId": "uAGVkbT7nK0",
+      "youtubeEnId": "xLwrhR7lpns",
+      "words": [
+        {
+          "word": "Sea",
+          "pair": "She",
+          "meaning1": "海",
+          "meaning2": "彼女"
+        },
+        {
+          "word": "Seat",
+          "pair": "Sheet",
+          "meaning1": "座席",
+          "meaning2": "シーツ"
+        },
+        {
+          "word": "Sip",
+          "pair": "Ship",
+          "meaning1": "すする",
+          "meaning2": "船"
+        },
+        {
+          "word": "Sign",
+          "pair": "Shine",
+          "meaning1": "看板",
+          "meaning2": "輝く"
+        },
+        {
+          "word": "Save",
+          "pair": "Shave",
+          "meaning1": "救う",
+          "meaning2": "剃る"
+        },
+        {
+          "word": "Sort",
+          "pair": "Short",
+          "meaning1": "種類",
+          "meaning2": "短い"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "She showed me a seat by the sea yesterday.",
+          "ja": "昨日彼女は海沿いの席を見せてくれた。"
+        },
+        {
+          "en": "She sells seashells by the seashore every day.",
+          "ja": "彼女は毎日海岸で貝殻を売っている。"
+        },
+        {
+          "en": "The ship sailed past the sign on the shore.",
+          "ja": "船は岸の看板を通り過ぎて航海した。"
+        },
+        {
+          "en": "She was so sure about the short story she wrote.",
+          "ja": "彼女は自分の短編小説にとても自信があった。"
+        },
+        {
+          "en": "Sam should sort the shoes by size and shape.",
+          "ja": "サムは靴をサイズと形で分類すべき。"
+        },
+        {
+          "en": "The sunshine makes the sea sparkle and shimmer.",
+          "ja": "日差しが海をキラキラと輝かせる。"
+        }
+      ]
+    },
+    {
+      "id": "w",
+      "missionNo": 7,
+      "symbol": "/w/",
+      "name": "W (口をすぼめる)",
+      "checkWord": "Woman / Wood",
+      "difficulty": 3,
+      "description": "日本語の「ワ」よりも、もっと唇をタコのように突き出す音。「ウゥゥ」と溜めてから勢いよく開くのがポイントです。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "唇をタコにする",
+          "detail": "唇をキスするときのように、ぎゅっとすぼめて前に突き出します。日本語の「ウ」よりもずっと強く突き出します。"
+        },
+        {
+          "step": 2,
+          "title": "「ウゥゥ」と溜める",
+          "detail": "すぼめた状態で「ウゥゥ」と声を溜めます。まだ唇は開きません。"
+        },
+        {
+          "step": 3,
+          "title": "勢いよく開く",
+          "detail": "「ウゥゥ→ワッ！」と唇を勢いよく開きます。この「ウ→ア」の動きがWの正体です。"
+        },
+        {
+          "step": 4,
+          "title": "単語で練習",
+          "detail": "「Woman」は「ウゥワマン」、「Week」は「ウゥウィーク」。出だしの「ウ」を大袈裟にやるのがコツです。"
+        }
+      ],
+      "commonMistakes": [
+        "唇の突き出しが足りない → もっとタコの口に。大袈裟なくらいでOK",
+        "「ウ」を入れずにいきなり「ワ」と言う → 最初の溜めが大事",
+        "WorkとWalkを混同する → 母音が違うので注意して練習",
+        "Wの音が弱すぎる → 唇をしっかり突き出してから開放する"
+      ],
+      "japaneseComparison": "日本語の「ワ」は唇をあまり動かしませんが、英語のWは唇を大きく突き出してから開きます。「ウゥワ」の動きが重要。日本語話者はWの音が弱くなりがちなので、大袈裟にやりましょう。",
+      "youtubeJaId": "-g0WL33oZFU",
+      "youtubeEnId": "jPDnkcgPge4",
+      "words": [
+        {
+          "word": "Woman",
+          "meaning1": "女性"
+        },
+        {
+          "word": "Wood",
+          "meaning1": "木"
+        },
+        {
+          "word": "Work",
+          "meaning1": "仕事"
+        },
+        {
+          "word": "Walk",
+          "meaning1": "歩く"
+        },
+        {
+          "word": "Week",
+          "meaning1": "週"
+        },
+        {
+          "word": "Question",
+          "meaning1": "質問"
+        },
+        {
+          "word": "Quiet",
+          "meaning1": "静かな"
+        },
+        {
+          "word": "Quick",
+          "meaning1": "早い"
+        },
+        {
+          "word": "Language",
+          "meaning1": "言語"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "We went for a walk in the woods last week.",
+          "ja": "先週森に散歩に行った。"
+        },
+        {
+          "en": "Wait a week before making a big decision.",
+          "ja": "大きな決断をする前に一週間待って。"
+        },
+        {
+          "en": "The woman asked a quick question very quietly.",
+          "ja": "その女性はとても静かに素早く質問した。"
+        },
+        {
+          "en": "It was a quiet walk in the wilderness.",
+          "ja": "荒野での静かな散歩だった。"
+        },
+        {
+          "en": "What would you want for a wedding gift?",
+          "ja": "結婚祝いに何が欲しい？"
+        },
+        {
+          "en": "The weather was warm and wonderful today.",
+          "ja": "今日の天気は暖かくて素晴らしかった。"
+        }
+      ]
+    },
+    {
+      "id": "y",
+      "missionNo": 8,
+      "symbol": "/j/",
+      "name": "Y (舌を強く持ち上げ)",
+      "checkWord": "Year / Ear",
+      "difficulty": 3,
+      "description": "舌の中央を上顎にギリギリまで近づけて「ィィィ」と力を入れてから母音につなぐ音。YearとEarの違いを聞き分けられるようになりましょう。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "舌を持ち上げる",
+          "detail": "舌の真ん中あたりを上顎にギリギリまで近づけます（触れない程度）。"
+        },
+        {
+          "step": 2,
+          "title": "「ィィィ」と力を入れる",
+          "detail": "その状態で「ィィィ」と力を込めます。舌と上顎の間で空気が摩擦する感覚があります。"
+        },
+        {
+          "step": 3,
+          "title": "母音につなぐ",
+          "detail": "「ィィィ→イヤー」（Year）。最初の「ィ」の力がYの正体です。"
+        },
+        {
+          "step": 4,
+          "title": "Year vs Earを区別",
+          "detail": "Year は「ィイヤー」（舌に力を入れてスタート）。Ear は「イァ」（喉の奥から、舌の力なし）。"
+        }
+      ],
+      "commonMistakes": [
+        "YearとEarが同じ音になる → Yearは最初に「ィ」の力が必要",
+        "舌に力が入っていない → 「ィィィ」の摩擦音が聞こえるくらい力を入れる",
+        "Yesを「エス」と言う → 「ィエス」と最初に力を入れて始める",
+        "Yellowを「エロー」と言う → 「ィエロー」と舌を持ち上げてスタート"
+      ],
+      "japaneseComparison": "日本語の「ヤ行」に近いですが、英語のYはもっと舌に力を入れます。「イヤー」ではなく「ィィヤー」と強めに入るのがコツ。日本語の「ヤ」は力が弱いので、英語では意識的に力を入れましょう。",
+      "youtubeJaId": "a4EmFkDfEPc",
+      "youtubeEnId": "bro5VbKDGAU",
+      "words": [
+        {
+          "word": "Year",
+          "pair": "Ear",
+          "meaning1": "年",
+          "meaning2": "耳"
+        },
+        {
+          "word": "Yes",
+          "meaning1": "はい"
+        },
+        {
+          "word": "Yellow",
+          "meaning1": "黄色"
+        },
+        {
+          "word": "Yesterday",
+          "meaning1": "昨日"
+        },
+        {
+          "word": "You",
+          "meaning1": "あなた"
+        },
+        {
+          "word": "Yet",
+          "meaning1": "まだ"
+        },
+        {
+          "word": "Young",
+          "meaning1": "若い"
+        },
+        {
+          "word": "Yard",
+          "meaning1": "庭"
+        },
+        {
+          "word": "Usual",
+          "meaning1": "普通の"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "Yes, I saw you yesterday at the yard.",
+          "ja": "はい、昨日庭であなたを見ました。"
+        },
+        {
+          "en": "You look young for your age, honestly.",
+          "ja": "正直、年齢の割に若く見える。"
+        },
+        {
+          "en": "It happened last year around this time.",
+          "ja": "去年の今頃にそれは起きた。"
+        },
+        {
+          "en": "Is it your usual yellow car in the yard?",
+          "ja": "庭にあるのはいつもの黄色い車？"
+        },
+        {
+          "en": "The young man said yes to the yearly event.",
+          "ja": "若い男性は年次イベントに「はい」と言った。"
+        },
+        {
+          "en": "Have you used this yet? It's brand new.",
+          "ja": "これもう使った？新品だよ。"
+        }
+      ]
+    }
+  ],
+  "vowels": [
+    {
+      "id": "ae",
+      "missionNo": 9,
+      "symbol": "/æ/",
+      "name": "æ (エとアの間)",
+      "checkWord": "Cat / Apple",
+      "difficulty": 3,
+      "description": "「エ」の口の形のまま喉の奥から「ア」と出す音。日本語にない音ですが、ヤギの「メェェ」をイメージすると近い音が出せます。アゴをしっかり下げるのがコツです。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "「エ」の口を作る",
+          "detail": "口を横に引いて「エ」の形にします。この横に引いた形をキープしたまま進みます。"
+        },
+        {
+          "step": 2,
+          "title": "そのまま「ア」と言う",
+          "detail": "口の形は「エ」のまま、喉の奥から「ア」と出します。「エアー」のような音になります。"
+        },
+        {
+          "step": 3,
+          "title": "アゴを下げる",
+          "detail": "もっと口を開けましょう。指1本分くらいアゴを下げるのがコツです。"
+        },
+        {
+          "step": 4,
+          "title": "ヤギの鳴き声",
+          "detail": "ヤギの「メェェ」の「ェェ」の部分。これがこの音にとても近いです。この感覚を覚えましょう。"
+        }
+      ],
+      "commonMistakes": [
+        "日本語の「ア」で代用する → 口をもっと横に引いて「エ」寄りに",
+        "「エ」の音に寄りすぎる → アゴを下げて「ア」成分を増やす",
+        "catとcutの区別がつかない → この音は口を横に開く、cutの母音は力を抜く",
+        "口の開きが小さい → アゴをしっかり下げて大きく開ける"
+      ],
+      "japaneseComparison": "日本語には「ア」と「エ」しかありませんが、英語のこの音はその中間の音です。カタカナの「キャット」の「ャ」では全然足りません。「エ」の口で「ア」を言う、この組み合わせが重要です。",
+      "youtubeJaId": "5Dgm8dhLbzo",
+      "youtubeEnId": "vT2yjlw00UU",
+      "words": [
+        {
+          "word": "Cat",
+          "pair": "Cut",
+          "meaning1": "猫",
+          "meaning2": "切る"
+        },
+        {
+          "word": "Apple",
+          "meaning1": "りんご"
+        },
+        {
+          "word": "Map",
+          "meaning1": "地図"
+        },
+        {
+          "word": "Back",
+          "meaning1": "戻る"
+        },
+        {
+          "word": "Happy",
+          "meaning1": "幸せ"
+        },
+        {
+          "word": "Man",
+          "meaning1": "男性"
+        },
+        {
+          "word": "Black",
+          "meaning1": "黒"
+        },
+        {
+          "word": "Hat",
+          "meaning1": "帽子"
+        },
+        {
+          "word": "Bad",
+          "meaning1": "悪い"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "That man has a black bag on his back.",
+          "ja": "あの男性は背中に黒いバッグを持っている。"
+        },
+        {
+          "en": "I'm happy to be back at last today.",
+          "ja": "やっと今日戻れて嬉しい。"
+        },
+        {
+          "en": "The cat sat on the mat and napped.",
+          "ja": "猫はマットの上に座って昼寝した。"
+        },
+        {
+          "en": "Can you hand me that map, please?",
+          "ja": "その地図を取ってくれますか？"
+        },
+        {
+          "en": "She had a bad habit of being late.",
+          "ja": "彼女は遅刻する悪い癖があった。"
+        },
+        {
+          "en": "The happy family had apples and sandwiches.",
+          "ja": "幸せな家族はりんごとサンドイッチを食べた。"
+        }
+      ]
+    },
+    {
+      "id": "uh",
+      "missionNo": 10,
+      "symbol": "/ʌ/",
+      "name": "ʌ (短く鋭いア)",
+      "checkWord": "Up / Cup",
+      "difficulty": 2,
+      "description": "口をあまり開けず、リラックスした状態から短く「アッ」と出す音。驚いた時の「あっ！」に近い音です。日本語の「ア」に一番近いですが、もう少し短く口先寄りです。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "リラックスする",
+          "detail": "口に力を入れないでください。半開きの状態でOKです。"
+        },
+        {
+          "step": 2,
+          "title": "短く「アッ」",
+          "detail": "驚いた時の「あっ！」の「あ」だけを出します。短く鋭く。長く伸ばしません。"
+        },
+        {
+          "step": 3,
+          "title": "口先で出す",
+          "detail": "日本語の「ア」より口先寄りの音です。喉の奥からではなく、口の中央あたりで響かせます。"
+        },
+        {
+          "step": 4,
+          "title": "他の母音との違い",
+          "detail": "Mission 9の音は口を横に大きく開いて力を入れる。この音はリラックスで小さく開くだけ。全く違います。"
+        }
+      ],
+      "commonMistakes": [
+        "Mission 9の音と混同する → この音は力を抜いてリラックス、Mission 9は力を入れて横に引く",
+        "長く伸ばしてしまう → 短く切る音。「アー」ではなく「アッ」",
+        "日本語の「ア」と全く同じだと思う → 少し違う。もっと短く口先寄り",
+        "Cup と Cap の区別がつかない → Cupは力を抜いて短く、Capは口を横に引いて"
+      ],
+      "japaneseComparison": "日本語の「ア」に最も近い英語の母音ですが、もう少し短く軽い音です。驚いた時の「あっ！」が一番近いイメージ。カタカナの「カップ」は長すぎるので、「カッ(プ)」くらい短くします。",
+      "youtubeJaId": "QGHOPI-T7b4",
+      "youtubeEnId": "hG-9d58Uch0",
+      "words": [
+        {
+          "word": "Up",
+          "meaning1": "上"
+        },
+        {
+          "word": "Cup",
+          "pair": "Cap",
+          "meaning1": "カップ",
+          "meaning2": "帽子"
+        },
+        {
+          "word": "Bus",
+          "meaning1": "バス"
+        },
+        {
+          "word": "Love",
+          "meaning1": "愛"
+        },
+        {
+          "word": "Come",
+          "meaning1": "来る"
+        },
+        {
+          "word": "Money",
+          "meaning1": "お金"
+        },
+        {
+          "word": "Luck",
+          "meaning1": "運"
+        },
+        {
+          "word": "Sun",
+          "meaning1": "太陽"
+        },
+        {
+          "word": "Cut",
+          "meaning1": "切る"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "Love takes a bit of luck and trust.",
+          "ja": "愛には少しの運と信頼が必要。"
+        },
+        {
+          "en": "The bus is coming up the hill right now.",
+          "ja": "バスが今まさに丘を上ってきている。"
+        },
+        {
+          "en": "I love my mother and brother so much.",
+          "ja": "母と兄弟がとても大好き。"
+        },
+        {
+          "en": "She cut the butter with a dull knife.",
+          "ja": "彼女は切れないナイフでバターを切った。"
+        },
+        {
+          "en": "Come have lunch with us on Sunday.",
+          "ja": "日曜日に一緒にランチしよう。"
+        },
+        {
+          "en": "He just won enough money for a cup of coffee.",
+          "ja": "彼はコーヒー1杯分のお金をちょうど勝ち取った。"
+        }
+      ]
+    },
+    {
+      "id": "ah",
+      "missionNo": 11,
+      "symbol": "/ɑː/",
+      "name": "ɑ (喉の奥を開くア)",
+      "checkWord": "Hot / Box",
+      "difficulty": 2,
+      "description": "口を大きく縦に開けて、喉の奥から深く長い「アー」を出す音。お医者さんの診察で「アーして」と言われた時の音そのものです。指が縦に2本入るくらい口を開けます。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "口を大きく開ける",
+          "detail": "指が縦に2本入るくらい、アゴを大きく下げます。縦に大きく開くのがポイントです。"
+        },
+        {
+          "step": 2,
+          "title": "喉をあくびの形に",
+          "detail": "あくびする時のように喉の奥を大きく開きます。喉が広がる感覚を覚えましょう。"
+        },
+        {
+          "step": 3,
+          "title": "深く「アー」",
+          "detail": "お医者さんの診察で「はい、アーして」の「アー」です。深くて長い音を出します。"
+        },
+        {
+          "step": 4,
+          "title": "他の「ア」との違い",
+          "detail": "この音は一番口が大きく開き、喉の奥から出す。Mission 9は横に開く。Mission 10は小さく短く。"
+        }
+      ],
+      "commonMistakes": [
+        "口の開きが小さい → もっと大きく！指2本分は開ける",
+        "HotとHatを混同する → Hotは縦に大きく開く、Hatは横に引く",
+        "短く切ってしまう → この音は長めに「アー」と出す",
+        "喉の奥が開いていない → あくびの感覚で喉を広げる"
+      ],
+      "japaneseComparison": "日本語の「ア」より口をもっと大きく開けて、喉の奥から出します。病院の診察の「アー」が英語のこの音です。カタカナの「ホット」は口が小さすぎるので、もっと大きく開けて「ハァット」に近い音にします。",
+      "youtubeJaId": "Kun3ZYDctrE",
+      "youtubeEnId": "umpsEXHxy1k",
+      "words": [
+        {
+          "word": "Hot",
+          "pair": "Hat",
+          "meaning1": "暑い",
+          "meaning2": "帽子"
+        },
+        {
+          "word": "Box",
+          "meaning1": "箱"
+        },
+        {
+          "word": "Stop",
+          "meaning1": "止まる"
+        },
+        {
+          "word": "Father",
+          "meaning1": "父"
+        },
+        {
+          "word": "Doctor",
+          "meaning1": "医者"
+        },
+        {
+          "word": "Problem",
+          "meaning1": "問題"
+        },
+        {
+          "word": "Job",
+          "meaning1": "仕事"
+        },
+        {
+          "word": "Office",
+          "meaning1": "オフィス"
+        },
+        {
+          "word": "Possible",
+          "meaning1": "可能な"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "The doctor stopped the problem right away.",
+          "ja": "医者はすぐに問題を止めた。"
+        },
+        {
+          "en": "I'll drop by the office at nine o'clock.",
+          "ja": "9時にオフィスに寄ります。"
+        },
+        {
+          "en": "Is it possible to get a hot coffee here?",
+          "ja": "ここで温かいコーヒーは頼めますか？"
+        },
+        {
+          "en": "My father has a hard job at the hospital.",
+          "ja": "父は病院で大変な仕事をしている。"
+        },
+        {
+          "en": "Tom got a lot of compliments at the shop.",
+          "ja": "トムはお店でたくさん褒められた。"
+        },
+        {
+          "en": "The box was on top of the closet.",
+          "ja": "箱はクローゼットの上にあった。"
+        }
+      ]
+    },
+    {
+      "id": "schwa",
+      "missionNo": 12,
+      "symbol": "/ə/",
+      "name": "ə (あいまい母音)",
+      "checkWord": "About / Today",
+      "difficulty": 3,
+      "description": "英語で最も頻出する母音。力を完全に抜いて弱く「ァ」と出す音。英語の約40%の母音がこの音です。この音を弱く言えると英語のリズムが一気に良くなります。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "全ての力を抜く",
+          "detail": "口の筋肉を完全にリラックスさせます。半開きで力ゼロの状態です。"
+        },
+        {
+          "step": 2,
+          "title": "弱く「ァ」",
+          "detail": "ささやくように、とても弱く「ァ」と出します。はっきり発音しないのがポイント。"
+        },
+        {
+          "step": 3,
+          "title": "Aboutで練習",
+          "detail": "「About」の最初のAがシュワ。「アバウト」ではなく「(ぅ)バゥト」。最初を弱く言います。"
+        },
+        {
+          "step": 4,
+          "title": "リズムを感じる",
+          "detail": "弱い音（シュワ）と強い音（アクセント）の差が英語のリズムの正体。「(ぅ)BOUT」「(ッ)DAY」のように波を作ります。"
+        }
+      ],
+      "commonMistakes": [
+        "全ての母音をはっきり発音してしまう → シュワは弱く曖昧に",
+        "Bananaを「バナナ」と全部同じ強さで言う → 「baNAna」で中央だけ強い",
+        "シュワの存在を意識していない → 英語の約40%の母音がシュワ",
+        "弱く言うことに抵抗がある → 弱い音があるから強い音が際立つ"
+      ],
+      "japaneseComparison": "日本語は全ての音を同じ強さで発音しますが、英語はシュワ（弱い音）とアクセント（強い音）の差が大きいです。この差が英語らしいリズムを作ります。日本語式に全部はっきり言うと「日本語訛り」に聞こえます。",
+      "youtubeJaId": "d2kReUUpIHE",
+      "youtubeEnId": "rRGr-9pG5b4",
+      "words": [
+        {
+          "word": "About",
+          "meaning1": "について"
+        },
+        {
+          "word": "Today",
+          "meaning1": "今日"
+        },
+        {
+          "word": "Banana",
+          "meaning1": "バナナ"
+        },
+        {
+          "word": "Support",
+          "meaning1": "支える"
+        },
+        {
+          "word": "Computer",
+          "meaning1": "コンピュータ"
+        },
+        {
+          "word": "America",
+          "meaning1": "アメリカ"
+        },
+        {
+          "word": "Station",
+          "meaning1": "駅"
+        },
+        {
+          "word": "Open",
+          "meaning1": "開く"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "I'll come support you today and tomorrow.",
+          "ja": "今日も明日もあなたを応援しに行くよ。"
+        },
+        {
+          "en": "Peel a banana and put it on the table.",
+          "ja": "バナナの皮をむいてテーブルに置いて。"
+        },
+        {
+          "en": "The computer station is about a mile away.",
+          "ja": "コンピュータステーションは約1マイル先。"
+        },
+        {
+          "en": "America is an amazing place to visit.",
+          "ja": "アメリカは訪れるのに素晴らしい場所。"
+        },
+        {
+          "en": "She was about to open the door quietly.",
+          "ja": "彼女は静かにドアを開けようとしていた。"
+        },
+        {
+          "en": "The problem is about communication.",
+          "ja": "問題はコミュニケーションについて。"
+        }
+      ]
+    },
+    {
+      "id": "er",
+      "missionNo": 13,
+      "symbol": "/ɜːr/",
+      "name": "ɜːr (こもった音)",
+      "checkWord": "World / Girl / Bird",
+      "difficulty": 5,
+      "description": "日本人が最も苦手な母音の一つ。「アー」ではなく最初から「ゥー」と唸るようなこもった音です。唇を突き出し、舌全体を後ろに引いて、喉の奥で響かせます。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "唇を突き出す",
+          "detail": "唇を少し丸めて前に突き出します。「ウ」の口の形に近いです。"
+        },
+        {
+          "step": 2,
+          "title": "舌全体を後ろに引く",
+          "detail": "舌先だけでなく、舌全体をグッと後方に引きます。舌が奥に引っ込む感覚です。"
+        },
+        {
+          "step": 3,
+          "title": "「ゥー」と唸る",
+          "detail": "「アー」とは言いません。最初から「ゥー」と喉の奥で唸ります。犬の唸り声に近い音です。"
+        },
+        {
+          "step": 4,
+          "title": "Worldで練習",
+          "detail": "「ワールド」ではなく「ウゥルド」。「ゥー」の音をキープしたまま最後まで言います。"
+        }
+      ],
+      "commonMistakes": [
+        "カタカナで「ワールド」と言ってしまう → 「ア」が入ると別の音になる",
+        "舌を巻いてしまう → 巻くのではなく舌全体を後ろに引く",
+        "最初に「ア」の音が入る → 最初から「ゥー」でスタートする",
+        "Girlを「ガール」と言う → 「グゥル」に近い。「ア」は入らない"
+      ],
+      "japaneseComparison": "日本語のカタカナ「アー」は使いません。「World」は「ワールド」ではなく「ウゥルド」、「Girl」は「ガール」ではなく「グゥル」、「Bird」は「バード」ではなく「ブゥド」。全て「ゥー」のこもった音です。",
+      "youtubeJaId": "K-09RVYsoQs",
+      "youtubeEnId": "-jnjFrzGESY",
+      "words": [
+        {
+          "word": "Girl",
+          "meaning1": "女の子"
+        },
+        {
+          "word": "Bird",
+          "meaning1": "鳥"
+        },
+        {
+          "word": "Work",
+          "meaning1": "仕事"
+        },
+        {
+          "word": "Early",
+          "meaning1": "早い"
+        },
+        {
+          "word": "Learn",
+          "meaning1": "学ぶ"
+        },
+        {
+          "word": "Turn",
+          "meaning1": "曲がる"
+        },
+        {
+          "word": "Heard",
+          "meaning1": "聞いた"
+        },
+        {
+          "word": "World",
+          "meaning1": "世界"
+        },
+        {
+          "word": "First",
+          "meaning1": "最初の"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "I learned the work early in the morning.",
+          "ja": "朝早くにその仕事を覚えた。"
+        },
+        {
+          "en": "I heard a bird singing first thing today.",
+          "ja": "今日最初に鳥が歌うのを聞いた。"
+        },
+        {
+          "en": "The girl turned to look at the world around her.",
+          "ja": "少女は周りの世界を見るために振り返った。"
+        },
+        {
+          "en": "First, learn the words, then earn your turn.",
+          "ja": "まず単語を覚えて、それから自分の番を勝ち取れ。"
+        },
+        {
+          "en": "She works hard to serve the world better.",
+          "ja": "彼女はより良い世界のために懸命に働く。"
+        },
+        {
+          "en": "The early bird certainly deserves the first word.",
+          "ja": "早起き鳥は確かに最初の発言に値する。"
+        }
+      ]
+    }
+  ],
+  "rhythm": [
+    {
+      "id": "linking",
+      "missionNo": 14,
+      "symbol": "Linking",
+      "name": "リンキング (連結)",
+      "checkWord": "Check it out",
+      "difficulty": 4,
+      "description": "単語の最後の子音と、次の単語の最初の母音がくっつく現象。「チェック・イット・アウト」が「チェケラゥ」になります。これができると一気にネイティブに近づきます。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "ルールを理解",
+          "detail": "子音で終わる単語 + 母音で始まる単語 = くっつく。例：Check it は「チェキッ」になります。"
+        },
+        {
+          "step": 2,
+          "title": "ゆっくりつなげる",
+          "detail": "「Check...it...out」から「Check-it-out」、そして「チェケラゥ」へ。少しずつスピードアップ。"
+        },
+        {
+          "step": 3,
+          "title": "単語の境目をなくす",
+          "detail": "一息で言い切ります。単語と単語の間にポーズを入れません。"
+        },
+        {
+          "step": 4,
+          "title": "日常フレーズで練習",
+          "detail": "「Pick it up」は「ピケラップ」、「Hold on」は「ホールドン」、「First of all」は「ファーストヴォール」。"
+        }
+      ],
+      "commonMistakes": [
+        "単語を一つずつ区切って言う → 英語は単語をつなげて発音するのが普通",
+        "スピードだけ上げようとする → まずゆっくりつなげる練習から始める",
+        "全部つなげようとする → まず子音+母音のパターンだけ意識すればOK",
+        "リンキングを意識しすぎて不自然になる → 自然に口が動くまで繰り返し練習"
+      ],
+      "japaneseComparison": "日本語は一文字ずつ区切って発音しますが、英語は単語をまたいでつなげて発音します。これがリスニングで聞き取れない最大の原因の一つ。自分でリンキングして話せるようになると、聞き取りも上達します。",
+      "youtubeJaId": "w1O3MLkna70",
+      "youtubeEnId": "NUEXgW2pig0",
+      "words": [
+        {
+          "word": "Check it out",
+          "meaning1": "見てみて"
+        },
+        {
+          "word": "Pick it up",
+          "meaning1": "拾って"
+        },
+        {
+          "word": "Far away",
+          "meaning1": "遠くに"
+        },
+        {
+          "word": "Hold on",
+          "meaning1": "ちょっと待って"
+        },
+        {
+          "word": "Wake up",
+          "meaning1": "起きて"
+        },
+        {
+          "word": "First of all",
+          "meaning1": "まず最初に"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "Can I pick it up later this afternoon?",
+          "ja": "今日の午後、後で取りに行ってもいい？"
+        },
+        {
+          "en": "Check it out! It's really amazing!",
+          "ja": ""
+        },
+        {
+          "en": "First of all, hold on a second please.",
+          "ja": "まず最初に、ちょっと待って。"
+        },
+        {
+          "en": "Wake up and look at the stars far away.",
+          "ja": "起きて、遠くの星を見て。"
+        },
+        {
+          "en": "Turn it off and put it away now.",
+          "ja": "今すぐ消してしまって。"
+        },
+        {
+          "en": "I'm not at all interested in it.",
+          "ja": "全く興味がない。"
+        }
+      ]
+    },
+    {
+      "id": "reduction",
+      "missionNo": 15,
+      "symbol": "Reduction",
+      "name": "リダクション (音の脱落)",
+      "checkWord": "Good morning",
+      "difficulty": 3,
+      "description": "破裂音（P, B, T, D, K, G）が単語の最後に来ると、音が消えることが多い現象。「グッド・モーニング」が「グッモーニング」になります。口の形は作るが音は出しません。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "破裂音を知る",
+          "detail": "P, B, T, D, K, G の6つが破裂音。唇や舌で空気を止めて弾く音です。"
+        },
+        {
+          "step": 2,
+          "title": "口だけ作る",
+          "detail": "「Good」の最後のDで舌を上につけるが、音は出さない。「グッ(d)」で止まります。"
+        },
+        {
+          "step": 3,
+          "title": "次の単語へつなぐ",
+          "detail": "「Good morning」は「グッモーニング」。Dの音が消えて自然につながります。"
+        },
+        {
+          "step": 4,
+          "title": "よく使うフレーズで練習",
+          "detail": "「Hot dog」は「ホッドッ(g)」、「Last night」は「ラスナイッ」。"
+        }
+      ],
+      "commonMistakes": [
+        "全ての音をはっきり言ってしまう → 最後の破裂音は消してOK",
+        "口の形も作らない → 口の形は作る！音だけ出さないのがポイント",
+        "全ての破裂音を消す → 単語の最後に来た時だけ消える",
+        "リダクションを知らずにリスニングで戸惑う → 自分で使えると聞き取りも上達"
+      ],
+      "japaneseComparison": "日本語は全ての音をはっきり発音しますが、英語は音が消えることが普通です。「グッド・モーニング」ではなく「グッモーニン(g)」。日本語式に全部はっきり言うと、逆に不自然に聞こえます。",
+      "youtubeJaId": "xZU3qqE6gKY",
+      "youtubeEnId": "Sjofsa5Z6WY",
+      "words": [
+        {
+          "word": "Good morning",
+          "meaning1": "おはよう"
+        },
+        {
+          "word": "Sit down",
+          "meaning1": "座って"
+        },
+        {
+          "word": "Hot dog",
+          "meaning1": "ホットドッグ"
+        },
+        {
+          "word": "Last night",
+          "meaning1": "昨夜"
+        },
+        {
+          "word": "Good job",
+          "meaning1": "よくやった"
+        },
+        {
+          "word": "Want to",
+          "meaning1": "したい"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "I had a hot dog last night for dinner.",
+          "ja": "昨夜の夕食にホットドッグを食べた。"
+        },
+        {
+          "en": "Sit down, please. Good morning everyone.",
+          "ja": "座ってください。皆さんおはよう。"
+        },
+        {
+          "en": "Good job on the project! Keep it up.",
+          "ja": "プロジェクトよくやった！続けて。"
+        },
+        {
+          "en": "I want to go out tonight if possible.",
+          "ja": "できれば今夜出かけたい。"
+        },
+        {
+          "en": "He just got back from a big trip abroad.",
+          "ja": "彼は海外の大きな旅行から帰ってきたところ。"
+        },
+        {
+          "en": "That sounds about right to me.",
+          "ja": "だいたい合っていると思う。"
+        }
+      ]
+    },
+    {
+      "id": "flapping",
+      "missionNo": 16,
+      "symbol": "Flapping",
+      "name": "フラッピング (Tの変化)",
+      "checkWord": "Water / Better",
+      "difficulty": 3,
+      "description": "母音に挟まれたTが日本語の「ラ行」のような柔らかい音に変わる現象。アメリカ英語の特徴です。「ウォーター」が「ワラ」、「ベター」が「ベラ」のように聞こえます。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "条件を確認",
+          "detail": "Tが母音と母音の間にある時に起きます。WaterのTは母音(a)と母音(e)の間にあります。"
+        },
+        {
+          "step": 2,
+          "title": "日本語の「ラ」をイメージ",
+          "detail": "WaterのTを日本語の「ラ」のように軽く弾きます。「ウォーラー」のような音になります。"
+        },
+        {
+          "step": 3,
+          "title": "舌先で軽くタップ",
+          "detail": "舌先で歯茎を一瞬だけタップします。力を入れすぎないのがポイント。"
+        },
+        {
+          "step": 4,
+          "title": "いろいろな単語で",
+          "detail": "Better は「ベラー」、Party は「パーリー」、City は「スィリー」。"
+        }
+      ],
+      "commonMistakes": [
+        "フラッピングしない → アメリカ英語では自然に起きる現象。使わないと固い印象",
+        "Tを完全に消してしまう → 消すのではなく、軽い「ラ」に変える",
+        "全てのTをフラッピングする → 母音に挟まれた時だけ。語頭のTはそのまま",
+        "力を入れすぎる → 軽く一瞬弾くだけでOK"
+      ],
+      "japaneseComparison": "実は日本語の「ラ行」の舌の動きとほぼ同じです！日本人にとっては得意な音変化のはず。Waterを「ウォーラー」と言ってみてください。自然にできるはずです。",
+      "youtubeJaId": "RNCoQFePLas",
+      "youtubeEnId": "_8xvuseBgOY",
+      "words": [
+        {
+          "word": "Water",
+          "meaning1": "水"
+        },
+        {
+          "word": "Better",
+          "meaning1": "より良い"
+        },
+        {
+          "word": "Party",
+          "meaning1": "パーティ"
+        },
+        {
+          "word": "Letter",
+          "meaning1": "手紙"
+        },
+        {
+          "word": "City",
+          "meaning1": "都市"
+        },
+        {
+          "word": "Little",
+          "meaning1": "小さい"
+        },
+        {
+          "word": "Computer",
+          "meaning1": "コンピュータ"
+        },
+        {
+          "word": "Meeting",
+          "meaning1": "会議"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "The water in the city is getting better now.",
+          "ja": "街の水は今良くなってきている。"
+        },
+        {
+          "en": "See you at the party later tonight!",
+          "ja": "今夜のパーティーで会おう！"
+        },
+        {
+          "en": "I got a little letter from the city hall.",
+          "ja": "市役所から小さな手紙が届いた。"
+        },
+        {
+          "en": "The computer meeting starts at two thirty.",
+          "ja": "コンピュータ会議は2時半に始まる。"
+        },
+        {
+          "en": "It doesn't matter. Whatever is better for you.",
+          "ja": "気にしないで。あなたに良い方でいいよ。"
+        },
+        {
+          "en": "She's sitting in the middle of the theater.",
+          "ja": "彼女は劇場の真ん中に座っている。"
+        }
+      ]
+    },
+    {
+      "id": "syllable",
+      "missionNo": 17,
+      "symbol": "Syllable",
+      "name": "シラブル (音節感覚)",
+      "checkWord": "Strike (1音節)",
+      "difficulty": 4,
+      "description": "英語の音節は母音の数で決まります。子音だけの部分に「ウ」や「オ」を入れないのが鍵。日本語の「ストライク」は5拍ですが、英語の「Strike」は1拍です。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "音節 = 母音の数",
+          "detail": "英語の音節は母音の数で数えます。Strike は母音が1つ(ai)だけなので1音節です。"
+        },
+        {
+          "step": 2,
+          "title": "日本語との違い",
+          "detail": "日本語は「ス・ト・ラ・イ・キ」と5拍。英語は Strike で手拍子1回だけ！"
+        },
+        {
+          "step": 3,
+          "title": "余計な母音を入れない",
+          "detail": "「ストライク」ではなく「ストゥライク」。子音の間に「ウ」「オ」を入れないようにします。"
+        },
+        {
+          "step": 4,
+          "title": "手拍子で練習",
+          "detail": "手を叩きながら：Strike(パン!)、Strength(パン!)、Chocolate(パンパン!) = 2音節。"
+        }
+      ],
+      "commonMistakes": [
+        "子音の後に母音を入れる → 「ス」トライクの「ウ」は不要",
+        "McDonald'sを5音節で言う → 正解は3音節（Mc-DON-ald's）",
+        "Chocolateを3音節で言う → 正解は2音節（CHOC-late）",
+        "Vegetableを4音節で言う → 正解は3音節（VEG-ta-ble）"
+      ],
+      "japaneseComparison": "日本語は「子音+母音」がセット（か=k+a）ですが、英語は子音だけが連続します（str-）。この違いが日本語訛りの最大の原因です。日本語の拍（モーラ）と英語の音節（シラブル）は全く別の概念です。",
+      "youtubeJaId": "h3-fqfdgvUQ",
+      "youtubeEnId": "3FeSMQetWpI",
+      "words": [
+        {
+          "word": "Strike (1音節)",
+          "meaning1": "ストライク"
+        },
+        {
+          "word": "Strength (1音節)",
+          "meaning1": "強さ"
+        },
+        {
+          "word": "Scream (1音節)",
+          "meaning1": "叫ぶ"
+        },
+        {
+          "word": "McDonald's (3音節)",
+          "meaning1": "マクドナルド"
+        },
+        {
+          "word": "Chocolate (2音節)",
+          "meaning1": "チョコレート"
+        }
+      ],
+      "sentences": [
+        {
+          "en": "Strength is the most important thing.",
+          "ja": "強さが最も大切なこと。"
+        },
+        {
+          "en": "I like chocolate cake. (Choc-late, not Cho-co-late)",
+          "ja": "チョコレートケーキが好き。"
+        },
+        {
+          "en": "The streets are straight and strong here.",
+          "ja": "ここの道はまっすぐで丈夫。"
+        },
+        {
+          "en": "Three strikes and you're out of the game.",
+          "ja": "三振でゲームオーバー。"
+        },
+        {
+          "en": "She screamed when she saw the strange spider.",
+          "ja": "奇妙なクモを見て彼女は叫んだ。"
+        },
+        {
+          "en": "Spring brings lots of strawberries and streams.",
+          "ja": "春はたくさんのイチゴと小川をもたらす。"
+        }
+      ]
+    },
+    {
+      "id": "intonation",
+      "missionNo": 18,
+      "symbol": "Intonation",
+      "name": "イントネーション (抑揚)",
+      "checkWord": "I didn't say that.",
+      "difficulty": 4,
+      "description": "内容語（名詞・動詞・否定語）は「高く・長く・強く」、機能語（be動詞・前置詞・代名詞）は「低く・短く・弱く」。平坦に読まず波を作ることで、英語らしい音になります。",
+      "steps": [
+        {
+          "step": 1,
+          "title": "内容語と機能語を区別",
+          "detail": "内容語 = 名詞・動詞・形容詞・否定語（意味がある語）。機能語 = be動詞・前置詞・代名詞（つなぐ語）。"
+        },
+        {
+          "step": 2,
+          "title": "内容語を強く",
+          "detail": "内容語を「高く・長く・強く」言います。声のボリュームを上げてゆっくり発音します。"
+        },
+        {
+          "step": 3,
+          "title": "機能語を弱く",
+          "detail": "機能語を「低く・短く・弱く」言います。ささやくくらい弱くてOKです。"
+        },
+        {
+          "step": 4,
+          "title": "波を作る",
+          "detail": "「I didn't SAY that.」vs「I didn't say THAT.」のように、強調する場所で意味が変わります。"
+        }
+      ],
+      "commonMistakes": [
+        "全部同じ強さで読んでしまう → 日本語の癖。英語は強弱の波がある",
+        "機能語を強く言ってしまう → 「I」「the」「to」「a」は弱く言う",
+        "速く読むことと抑揚をつけることを混同する → ゆっくりでいいから波を意識",
+        "抑揚が足りない → 大袈裟なくらい差をつけてOK。ネイティブはかなり差をつける"
+      ],
+      "japaneseComparison": "日本語は平坦なリズムで全ての音を同じ強さで発音します。英語は「強・弱・強・弱」の波があります。この違いが「日本語英語」と「ネイティブ英語」の最大の差です。内容を伝える大事な単語を強く、それ以外を弱く言います。",
+      "youtubeJaId": "GqLQep_sN9k",
+      "youtubeEnId": "iK36dLxlv-M",
+      "words": [
+        {
+          "word": "(文全体のリズム練習)",
+          "meaning1": ""
+        }
+      ],
+      "sentences": [
+        {
+          "en": "I didn't SAY that. (「言っていない」を強調)",
+          "ja": "私はそうは言っていない。"
+        },
+        {
+          "en": "I didn't say THAT. (「それは」を強調)",
+          "ja": "私が言ったのはそれではない。"
+        },
+        {
+          "en": "I LOVE this BEAUTIFUL CITY so much.",
+          "ja": "この美しい街が本当に大好き。"
+        },
+        {
+          "en": "She WANTS to GO to the STORE today.",
+          "ja": "彼女は今日お店に行きたがっている。"
+        },
+        {
+          "en": "The WEATHER is REALLY NICE this morning.",
+          "ja": "今朝の天気は本当にいい。"
+        },
+        {
+          "en": "Can you HELP me FIND my KEYS please?",
+          "ja": "鍵を見つけるのを手伝ってくれますか？"
+        }
+      ]
+    }
+  ]
+}
