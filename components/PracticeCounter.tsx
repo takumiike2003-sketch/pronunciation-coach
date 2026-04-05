@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { createClient } from "@/lib/supabase-browser";
 
 interface PracticeCounterProps {
   soundId: string;
@@ -9,22 +10,50 @@ interface PracticeCounterProps {
 export default function PracticeCounter({ soundId }: PracticeCounterProps) {
   const [count, setCount] = useState(0);
   const [justClicked, setJustClicked] = useState(false);
+  const [userId, setUserId] = useState<string | null>(null);
+  const supabase = createClient();
 
   useEffect(() => {
-    const stored = localStorage.getItem(`practice-${soundId}`);
-    if (stored) setCount(parseInt(stored, 10));
+    loadCount();
   }, [soundId]);
+
+  async function loadCount() {
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) return;
+    setUserId(user.id);
+
+    const { data } = await supabase
+      .from("progress")
+      .select("practice_count")
+      .eq("user_id", user.id)
+      .eq("mission_id", soundId)
+      .single();
+
+    if (data) setCount(data.practice_count);
+  }
+
+  async function saveCount(newCount: number) {
+    if (!userId) return;
+    await supabase
+      .from("progress")
+      .upsert({
+        user_id: userId,
+        mission_id: soundId,
+        practice_count: newCount,
+        updated_at: new Date().toISOString(),
+      }, { onConflict: "user_id,mission_id" });
+  }
 
   const handleMinus = () => {
     const newCount = Math.max(0, count - 1);
     setCount(newCount);
-    localStorage.setItem(`practice-${soundId}`, String(newCount));
+    saveCount(newCount);
   };
 
   const handlePractice = () => {
     const newCount = count + 1;
     setCount(newCount);
-    localStorage.setItem(`practice-${soundId}`, String(newCount));
+    saveCount(newCount);
     setJustClicked(true);
     setTimeout(() => setJustClicked(false), 1200);
   };
